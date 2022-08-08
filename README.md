@@ -46,7 +46,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How I Started Programming](https://medium.com/@furkankizilay/how-i-started-programming-68b95504d27c)
-- [Simple Pandas Usage and Data Visualization](https://furkankizilay.hashnode.dev/simple-pandas-usage-and-data-visualization)
+- [Simple Pandas Usage and Data Visualization](https://medium.com/@furkankizilay/simple-pandas-usage-and-data-visualization-1c0336942850)
 <!-- BLOG-POST-LIST:END -->
 
 
