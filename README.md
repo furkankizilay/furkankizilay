@@ -45,8 +45,8 @@
 ## :blue_book: Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Started Programming](https://medium.com/@furkankizilay/how-i-started-programming-68b95504d27c)
 - [Simple Pandas Usage and Data Visualization](https://medium.com/@furkankizilay/simple-pandas-usage-and-data-visualization-1c0336942850)
+- [End-to-end machine learning project using FastAPI, Streamlit and Docker](https://medium.com/@furkankizilay/end-to-end-machine-learning-project-using-fastapi-streamlit-and-docker-6fda32d25c5d)
 <!-- BLOG-POST-LIST:END -->
 
 
