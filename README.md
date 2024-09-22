@@ -1,5 +1,4 @@
 ## Hi there, I'm Furkan. 👋
-<br />
 
 - :mortar_board: I graduated from Department of Computer Science in 2024 and I work as a Research and Development Data Scientist.
 
