@@ -4,7 +4,7 @@
 
 - :seedling: My primary areas of study include Natural Language Processing and Computer Vision.
 
-- :black_nib: I'm also writing a blog about what I am learning in the fields of NLP and Computer Vision.
+- :black_nib: I'm also writing academic papers and blogs about what I am learning in the fields of NLP and Computer Vision.
 
 ## 🔗 Let's Connect!
 <a href="https://www.linkedin.com/in/furkan-kizilay-584a34222/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
