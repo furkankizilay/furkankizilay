@@ -27,6 +27,10 @@
 ## :green_book: Latest Publications
 
 <!-- Publications-LIST:START -->
+- [Evaluating fine tuned deep learning models for real-time earthquake damage assessment with drone-based images](https://link.springer.com/article/10.1007/s43503-024-00034-6)
+
+- [Document Classification and Key Information Extraction Using Multimodal Transformers](https://ieeexplore.ieee.org/abstract/document/107734516)
+
 - [Automatic Target Generation for Electronic Data Interchange using Sequence-to-Sequence Models](https://link.springer.com/chapter/10.1007/978-3-031-70018-7_18)
 
 - [A Feasibility Study of Real-Time Image Processing Techniques for Small Flying Object Detection in Drones](https://ieeexplore.ieee.org/abstract/document/10444450/)
